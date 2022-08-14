@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @lobaluna
 - 👀 I’m interested in creating static web sites, learning how to map using free software, libreoffice, epub making, etc.
 - 🌱 I’m currently learning Hugo
-- 💞️ I’m looking to collaborate on LibreOffice
+- 💞️ I do collaborate with the LibreOffice community
+- I am learning data science
 - 📫 How to reach me: leave a note here.
 
 <!---
